@@ -12,3 +12,4 @@
 - [Jailbreaks](./Jailbreaks.md)
 
 - New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
+- 
